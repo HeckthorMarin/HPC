@@ -41,8 +41,8 @@ class Matrix {
 
 int main(){
 	Matrix mymat(4,7);
-    mymat.fill();
-    mymat.show();
-    
+	mymat.fill();
+	mymat.show();
+
 	return 0;
 }
